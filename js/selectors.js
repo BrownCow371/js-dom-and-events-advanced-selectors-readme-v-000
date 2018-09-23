@@ -6,5 +6,5 @@ function paragraphSelector() {
 
 
 function firstListItem() {
-   $("ul#pick-list li:first-child");
+   $("ul#pic-list li:first-child");
 }
